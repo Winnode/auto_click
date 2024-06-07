@@ -1,3 +1,5 @@
+![Example Image](https://github.com/Winnode/auto_click/blob/main/ex.jpg)
+
 # Auto Click Program
 
 This program allows you to automate clicking on your screen. It can be useful for various tasks where repetitive clicking is required.
